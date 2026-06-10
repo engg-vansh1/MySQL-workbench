@@ -63,3 +63,4 @@ DELETE FROM classes WHERE class_id = 3;
 
 # ON DELETE SET NULL -is helpful when you want to preserve child 
 # records but indicate that the relationship has been broken.
+
