@@ -192,3 +192,4 @@ select * from student_details inner join student_marks
  on student_details.id = student_marks.student_id;
  
  
+ 
