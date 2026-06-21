@@ -19,3 +19,4 @@ call get_employee_details(3);
 # deleting the procedure 
 
 drop procedure if exists get_employee_details;
+
